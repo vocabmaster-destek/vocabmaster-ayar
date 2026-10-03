@@ -1,8 +1,8 @@
 {
   "hosgeldin_gun": 30,
   "hatirlatma_gun_once": 3,
-  "reklam_aktif": true,
-  "reklam_birimi": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
+  "reklam_aktif": false,
+  "reklam_birimi": "ca-app-pub-9376163738330293/7636133156",
   "reklam_esikleri": [
     [
       5,
@@ -21,7 +21,7 @@
   "reklam_arasi_dakika": 15,
   "oturum_en_az_saniye": 60,
   "reklam_duyuru_saniye": 3,
-  "satis_aktif": true,
+  "satis_aktif": false,
   "paketler": [
     {
       "kimlik": "reklamsiz_6ay",
@@ -36,7 +36,7 @@
       "satista": true
     }
   ],
-  "destek_aktif": true,
+  "destek_aktif": false,
   "destekler": [
     {
       "kimlik": "destek_kucuk",
