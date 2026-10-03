@@ -1,0 +1,72 @@
+{
+  "hosgeldin_gun": 30,
+  "hatirlatma_gun_once": 3,
+  "reklam_aktif": true,
+  "reklam_birimi": "ca-app-pub-XXXXXXXXXXXXXXXX/YYYYYYYYYY",
+  "reklam_esikleri": [
+    [
+      5,
+      1
+    ],
+    [
+      20,
+      2
+    ],
+    [
+      45,
+      3
+    ]
+  ],
+  "gunluk_en_fazla_reklam": 3,
+  "reklam_arasi_dakika": 15,
+  "oturum_en_az_saniye": 60,
+  "reklam_duyuru_saniye": 3,
+  "satis_aktif": true,
+  "paketler": [
+    {
+      "kimlik": "reklamsiz_6ay",
+      "gun": 183,
+      "ad": "6 ay reklamsız",
+      "satista": true
+    },
+    {
+      "kimlik": "reklamsiz_12ay",
+      "gun": 365,
+      "ad": "12 ay reklamsız",
+      "satista": true
+    }
+  ],
+  "destek_aktif": true,
+  "destekler": [
+    {
+      "kimlik": "destek_kucuk",
+      "ad": "Çay ısmarla",
+      "puan": 1,
+      "hediye_gun": 3,
+      "satista": true
+    },
+    {
+      "kimlik": "destek_orta",
+      "ad": "Kahve ısmarla",
+      "puan": 3,
+      "hediye_gun": 10,
+      "satista": true
+    },
+    {
+      "kimlik": "destek_buyuk",
+      "ad": "Büyük destek",
+      "puan": 8,
+      "hediye_gun": 30,
+      "satista": true
+    }
+  ],
+  "teklif_tekrar_gun": 30,
+  "erken_kullanici_son_tarih": "",
+  "erken_kullanici_gun": 365,
+  "analitik_aktif": true,
+  "ga_olcum_kimligi": "G-XXXXXXXXXX",
+  "ga_api_sirri": "BURAYA_MEASUREMENT_PROTOCOL_GIZLI_ANAHTARI",
+  "gorsel_aktif": true,
+  "gorsel_anahtari": "",
+  "gorsel_model": ""
+}
